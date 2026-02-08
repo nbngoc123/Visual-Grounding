@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+.ipynb_checkpoints/
+*.lmdb
+*.keys.pkl
+data/*
+!data/.gitkeep
+checkpoints/*
+outputs/*
