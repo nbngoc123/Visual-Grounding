@@ -5,6 +5,7 @@ __pycache__/
 *.so
 
 .ipynb_checkpoints/
+notebooks/
 *.lmdb
 *.keys.pkl
 data/*
